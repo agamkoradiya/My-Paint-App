@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="deep_pink">#FF1493</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="dark_khaki">#BDB76B</color>
+    <color name="medium_orchid">#BA55D3</color>
+    <color name="dark_goldenrod">#B8860B</color>
+    <color name="fire_brick">#B22222</color>
+    <color name="greenYellow">#ADFF2F</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="sienna">#A0522D</color>
+    <color name="blue_violet">#8A2BE2</color>
+    <color name="olive">#808000</color>
+    <color name="indigo">#4B0082</color>
+    <color name="purple">#800080</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="forest_green">#228B22</color>
+    <color name="black">#000000</color>
+
+    <string-array name="themeColorHex">
+        <item>#FFFFFF</item>
+        <item>#FFFF00</item>
+        <item>#FFA500</item>
+        <item>#FF1493</item>
+        <item>#FF0000</item>
+        <item>#C0C0C0</item>
+        <item>#BDB76B</item>
+        <item>#BA55D3</item>
+        <item>#B8860B</item>
+        <item>#B22222</item>
+        <item>#ADFF2F</item>
+        <item>#ADD8E6</item>
+        <item>#A0522D</item>
+        <item>#8A2BE2</item>
+        <item>#808000</item>
+        <item>#4B0082</item>
+        <item>#800080</item>
+        <item>#4169E1</item>
+        <item>#228B22</item>
+        <item>#000000</item>
+    </string-array>
+
+</resources>

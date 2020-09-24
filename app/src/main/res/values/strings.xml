@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPaint</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="external_storage">This app needs access to your storage so you can save your drawing.</string>
+    <string name="storage">Storage</string>
+</resources>
